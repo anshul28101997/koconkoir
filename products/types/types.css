@@ -1,0 +1,42 @@
+.IndieFlower{
+	font-family: 'Indie Flower', cursive;
+}
+.JosefinSans{
+	font-family: 'Josefin Sans', sans-serif;
+}
+.Lobster{
+	font-family: 'Lobster', cursive;
+}
+.Pacifico{
+	font-family: 'Pacifico', cursive;
+}
+.ShadowsIntoLight{
+	font-family: 'Shadows Into Light', cursive;
+}
+.AbrilFatface{
+	font-family: 'Abril Fatface', cursive;
+}
+.Charm{
+	font-family: 'Charm', cursive;	
+}
+.Domine{
+	font-family: 'Domine', serif;
+}
+.font20{
+	font-size: 20px;
+}
+.font30{
+	font-size: 30px;
+}
+.font40{
+	font-size: 40px;
+}
+.img100 {
+   width: auto;
+   max-height: 100%;
+}
+.img40 {
+   width: auto;
+   max-height: 40%;
+}
+
